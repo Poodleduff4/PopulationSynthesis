@@ -1,0 +1,6 @@
+.venv/*
+.vscode/*
+Data/*
+SILO_OUTPUT/*
+old_synthesize
+MontrealData
